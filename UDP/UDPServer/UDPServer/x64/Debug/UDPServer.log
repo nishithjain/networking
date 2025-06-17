@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  UDPSocket.cpp
+D:\GitHub\BackendEngineering\02 Protocols\UDP\UDPServer\UDPServer\UDPSocket.cpp(124,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  UDPServer.vcxproj -> D:\GitHub\BackendEngineering\02 Protocols\UDP\UDPServer\x64\Debug\UDPServer.exe
